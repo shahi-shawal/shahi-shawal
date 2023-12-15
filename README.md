@@ -11,7 +11,7 @@
 - 📫 How to reach me **shahishawal@gmail.com**
 - - 👨‍💻 All of my projects are available at [https://shawal-portfolio.vercel.app/](https://shawal-portfolio.vercel.app/)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahi-shawal&label=Profile%20views&color=d7e60a&style=flat" alt="shahi-shawal" /> </p>
 
 <h1 align="left">Projects</h1>
 ✔ Health-Lab Full Stack Website with Mern stack https://health-lab-1.web.app
