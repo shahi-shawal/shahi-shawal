@@ -30,7 +30,7 @@ Admin-Pass 123456A!
 Github:
 
 front-end https://github.com/shahi-shawal/job-market-client-side <br>
-back-end https://github.com/shahi-shawal/job-market-server-side\
+back-end https://github.com/shahi-shawal/job-market-server-side
 
 ✔ Automotive Full Stack Website with Mern stack 
 https://carshow-as10.web.app
